@@ -1,2 +1,2 @@
-# serverlessGCS
-Serverless Demonstration with GCS Cloud Run and Cloud Storage
+# serverlessGcs
+Serverless app demonstration with GCS cloud run and cloud storage.
