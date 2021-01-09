@@ -1,4 +1,4 @@
-# serverlessGcs
+# serverlessGCP
 
 Serverless app demonstration with GCP cloud run and cloud storage.
 
