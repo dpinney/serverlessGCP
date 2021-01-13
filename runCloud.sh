@@ -18,5 +18,5 @@
 
 # # Upload and Deploy Container
 # # ---------------------------
-gcloud builds submit --tag gcr.io/simplelist/simplelistcont
-gcloud run deploy simplelistcont --image gcr.io/simplelist/simplelistcont --platform managed --region us-east1
+# gcloud builds submit --tag gcr.io/simplelist/simplelistcont
+gcloud run deploy simplelistcont --image gcr.io/simplelist/simplelistcont --platform managed --region us-east1 --max-instances 20
